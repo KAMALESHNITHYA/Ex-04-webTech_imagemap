@@ -28,8 +28,6 @@ complete all the steps and commit and push to github
     </head>
     <body>
     <H1>places near my location</H1>
-    <h1>NAME:ABDULLAH.R</h1>
-    <H1>REF NO:23013613</H1>
     <img src="mop.png" alt="sorry" usemap="#navigation">
     <map name="navigation">
         <area shape="rect" coords="143,625,408,708" alt="ooo" href="annadharsh.html" title="annaadharsh">
