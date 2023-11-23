@@ -34,8 +34,8 @@ complete all the steps and commit and push to github
     <map name="navigation">
         <area shape="rect" coords="143,625,408,708" alt="ooo" href="annadharsh.html" title="annaadharsh">
         <area shape="rect" coords="724,241,939,339" alt="ok" href="seashell.html" title="seashell">
-        <area shape="RECT" coords="100,327,311,436" alt="oi" href="ceelam.html" title="korafood">
-        <area shape="Rect" coords="483,305,711,387"  alt="lol" href="thaila.html" title="annatower">
+        <area shape="RECT" coords="100,327,311,436" alt="oi" href="korafoodstreet.html" title="korafood">
+        <area shape="Rect" coords="483,305,711,387"  alt="lol" href="annatower.html" title="annatower">
         <area shape="rect"   coords="1111,6000,1359,689" alt="oo" href="swimmingpool.html" title="swimmingpool">
     </map>
     </body>
