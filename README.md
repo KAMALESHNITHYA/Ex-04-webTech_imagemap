@@ -20,7 +20,7 @@ Add a new imagemap html file in templates and need images in static folder and d
 complete all the steps and commit and push to github
 
 ## Code:
-
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -40,8 +40,9 @@ complete all the steps and commit and push to github
     </map>
     </body>
 </html>
-
+```
 ### adharsh.html
+```
 <!DOCTYPE html>
 <html>
     <head>ANNA ADHARSH</head>
@@ -51,8 +52,10 @@ complete all the steps and commit and push to github
         <p style="color:rgb(165, 42, 42); font-size: 200%;" ><strong>To transform every woman student who leaves its portal into a humane, socially responsible and professionally successful individual who can envision her future and strive relentlessly towards perfection without compromising on moral and ethical values. </strong></p>
     </body>
 </html>
+```
 
 ### annatower.html
+```html
 <!DOCTYPE html>
 <html>
     <head>ANNA TOWER</head>
@@ -63,8 +66,9 @@ complete all the steps and commit and push to github
         </strong></p>
     </body>
 </html>
-
+```
 ### seashell.html
+```html
 <!DOCTYPE html>
 <html>
     <head>SEASHELL</head>
@@ -74,8 +78,9 @@ complete all the steps and commit and push to github
         <p style="color:rgb(165, 42, 42); font-size: 200%;" ><strong>Sea Shell in Thousand Lights, Chennai is a well-known restaurant that serves both local and non-local customers. The restaurant is known for its seafood and Arabian-style dishes. Some say the restaurant has great customer service and tasty food. Sea Shell Restaurant in Chennai is owned by the famous Tamil actor ARYA.  </strong></p>
     </body>
 </html>
-
+```
 ### swimmingpool.html
+```html
 <!DOCTYPE html>
 <html>
     <head>SWIMMING POOL</head>
@@ -85,8 +90,9 @@ complete all the steps and commit and push to github
         <p style="color:rgb(165, 42, 42); font-size: 200%;" ><strong>A swimming pool is a tank or large basin that is filled with water and intended for recreational or competitive swimming or diving. Pools are also used for other bathing activities, such as playing, wading, water exercising, floating on inner tubes, or cooling off on hot days. </strong></p>
     </body>
 </html>
-
+```
 ### korafoodstreet.html
+```
 <!DOCTYPE html>
 <html>
     <head>KORA FOODSTREET</head>
@@ -96,8 +102,7 @@ complete all the steps and commit and push to github
         <p style="color:rgb(165, 42, 42); font-size: 200%;" ><strong>Kora Food Street (KFS) is a food court in Anna Nagar, Chennai. It offers a variety of food options from around the world, including: Wood fired pizza, Birria tacos, Noodles, Momos, Boba tea, Indian, Arabian. Some say the food is delicious and affordable, and that the chefs create multi-cuisine street food specials. KFS is open 24/7. </strong></p>
     </body>
 </html>
-
-
+```
 
 # Output:
 
