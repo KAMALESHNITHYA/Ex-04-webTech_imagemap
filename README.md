@@ -40,7 +40,7 @@ complete all the steps and commit and push to github
 </html>
 ```
 ### adharsh.html
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>ANNA ADHARSH</head>
@@ -90,8 +90,7 @@ complete all the steps and commit and push to github
 </html>
 ```
 ### korafoodstreet.html
-```
-
+```html
 <!DOCTYPE html>
 <html>
     <head>KORA FOODSTREET</head>
